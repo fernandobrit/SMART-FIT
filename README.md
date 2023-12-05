@@ -1,0 +1,1 @@
+Esse é um pequeno projeto criado como base para a avaliação de habilidades técnicas para o papel de Front-end.
